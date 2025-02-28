@@ -43,7 +43,7 @@ npm run dev
 ---
 ## 🔗 Links
 
-- **Live Demo:** [Upliance.ai Live](https://your-live-demo-url.com)
+- **Live Demo:** [Upliance.ai Live](https://uplianceai-project.vercel.app)
 - **Repository:** [GitHub Repo](https://github.com/madhusarania/Upliance.ai-project)
 
 ---
